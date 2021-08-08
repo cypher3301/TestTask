@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Tests {
+public class Task1To3 {
     //проверка на палиндром
     //задание 1
     public boolean solve(int k) {
